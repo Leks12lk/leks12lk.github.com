@@ -9,11 +9,10 @@ tagline: Supporting tagline
 
 ## И вот всё получилось))
 
-In `_config.yml` remember to specify your own data:
     
     return "Hello World!"
 
-The theme should reference these variables whenever needed.
+
     
 ## Здесь список постов
 
